@@ -99,46 +99,6 @@
           "x": 10, "y": 24,
           "width": 10, "height": 6
         }
-      },
-      {
-        "title": "API Latency",
-        "service": "api-gw",
-        "metric": "latency",
-        "display": "time-series",
-        "coordinates": {
-          "x": 0, "y": 30,
-          "width": 10, "height": 6
-        }
-      },
-      {
-        "title": "API Latency Average",
-        "service": "api-gw",
-        "metric": "latency",
-        "display": "numbers",
-        "coordinates": {
-          "x": 10, "y": 30,
-          "width": 10, "height": 6
-        }
-      },
-      {
-        "title": "API Requests",
-        "service": "api-gw",
-        "metric": "requests",
-        "display": "time-series",
-        "coordinates": {
-          "x": 0, "y": 36,
-          "width": 10, "height": 6
-        }
-      },
-      {
-        "title": "API Requests",
-        "service": "api-gw",
-        "metric": "requests",
-        "display": "numbers",
-        "coordinates": {
-          "x": 10, "y": 36,
-          "width": 10, "height": 6
-        }
       }
     ]
 }
